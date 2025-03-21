@@ -1,0 +1,26 @@
+body{
+    font-family:Arial,sans-serif;
+    text-align:center;
+    background-color:#f4f4f4;
+    margin:0;
+    padding:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.keyboard-demo{
+    width:200px;
+    height:100px;
+    background-color:#3498db;
+    color: #fff;
+    border:2px solid #2980b9;
+    text-align:center;
+    line-height:100px;
+    cursor:pointer;
+    font-size:24px;
+    transition:background-color 0.3s;
+}
+.keyboard-demo:hover {
+    background-color: #2980b9;
+}

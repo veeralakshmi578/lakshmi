@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>keyboard Events Example</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+<body>
+    <div id="keyboardDemo" class="keyboard-demo">
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
